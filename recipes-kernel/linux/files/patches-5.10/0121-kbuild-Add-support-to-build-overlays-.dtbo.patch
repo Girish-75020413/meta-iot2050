@@ -1,7 +1,7 @@
 From d394ea6c09c0c1873c062a3213517549cc186de9 Mon Sep 17 00:00:00 2001
 From: Viresh Kumar <viresh.kumar@linaro.org>
 Date: Fri, 29 Jan 2021 12:54:08 +0530
-Subject: [PATCH 121/123] kbuild: Add support to build overlays (%.dtbo)
+Subject: [PATCH 121/124] kbuild: Add support to build overlays (%.dtbo)
 
 Add support for building DT overlays (%.dtbo). The overlay's source file
 will have the usual extension, i.e. .dts, though the blob will have

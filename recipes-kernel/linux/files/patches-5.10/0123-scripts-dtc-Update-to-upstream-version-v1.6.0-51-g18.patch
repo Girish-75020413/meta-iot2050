@@ -1,7 +1,7 @@
 From 17f854569df91643082a8dcdda1852f9667e9fee Mon Sep 17 00:00:00 2001
 From: Rob Herring <robh@kernel.org>
 Date: Wed, 3 Feb 2021 15:26:03 -0600
-Subject: [PATCH 123/123] scripts/dtc: Update to upstream version
+Subject: [PATCH 123/124] scripts/dtc: Update to upstream version
  v1.6.0-51-g183df9e9c2b9
 
 This adds the following commits from upstream:

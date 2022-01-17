@@ -1,7 +1,7 @@
 From 0c168913fdb366e0809e05ddc2913b1f2d19d44a Mon Sep 17 00:00:00 2001
 From: Viresh Kumar <viresh.kumar@linaro.org>
 Date: Fri, 29 Jan 2021 12:54:06 +0530
-Subject: [PATCH 122/123] scripts: dtc: Build fdtoverlay tool
+Subject: [PATCH 122/124] scripts: dtc: Build fdtoverlay tool
 
 commit 0da6bcd9fcc021ff2d6cd7c8173f42dcdff6a00b upstream.
 
